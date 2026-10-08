@@ -1,5 +1,6 @@
 # name: The display title of your workflow visible in the GitHub Actions tab
 name: CI Test Suite
+
 # on: Specifies the trigger events that automatically start this workflow
 on:
   push:
